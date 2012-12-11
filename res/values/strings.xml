@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">NutSimDataViewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Sim Card Reader</string>
+    <string name="title_activity_inbox">InboxActivity</string>
+
+</resources>
